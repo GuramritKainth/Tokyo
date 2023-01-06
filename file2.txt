@@ -1,1 +1,3 @@
 this is Amy's folder
+
+some dummy text
